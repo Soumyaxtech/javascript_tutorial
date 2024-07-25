@@ -32,3 +32,20 @@ console.log(ConvertInNum2)
 
 /* TO CONVERT ANY DATATYPE WE HAVE TO 
 WRITE..............DATATYPE NAME(VARIABLE NAME)   */
+
+
+let num=0
+let str=""
+let boolnum = Boolean(num)
+                        // CONVERSION OF NUMBER TO BOOLEAN........
+let boolstr = Boolean(str)
+console.log(boolnum);
+console.log(typeof(boolnum))    // CONVERSION OF STRING TO BOOLEAN
+console.log(boolstr)        // "" ---> FALSE "SOUMYA" ---> TRUE
+
+
+let num1=50
+let strnum=String(num1)
+                            // CONVERSION OF OTHER DATATYPE TO STRING
+console.log(strnum)
+console.log(typeof strnum)
