@@ -1,4 +1,4 @@
-// let value=3
+let value=3
 // let negval=-value
 // console.log(negval) 
 // console.log(2+2)
@@ -13,10 +13,3 @@
 // let str2=" Soumya"
 // let str3=str1+str2
 // console.log(str3)
-
-
-
-console.log(1+"3")  // PRINT 13
-console.log("2"+5)  // PRINT 25
-console.log("1"+2+5)    // PRINT 125 AS FIRST STRING
-console.log(2+5+"6")    // PRINT 76 AS NUM FIRST SO (2+5) THEN ADD 6
