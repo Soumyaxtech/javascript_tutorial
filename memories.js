@@ -8,7 +8,7 @@ anotherName = "Babai"   // ALL PRIMITIVE DATATYPES STORED IN STACK MEMORY
 console.log(name)       // SO ONLY CHANGE OF COPY OF NAME VARIABLE
 console.log(anotherName)
 
-let userone={
+const  userone={
     email: "user@google.com",
     id: 1235,
 }
