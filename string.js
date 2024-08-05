@@ -31,7 +31,7 @@ console.log(sub)
 const sliceString = game.slice(1,4)  // TO SLICE A STRING
 console.log(sliceString)
 
-const title = "Sujata"
+const title = "koley"
 console.log(title)
 console.log(title.trim())   // To remove spaces from string
 
