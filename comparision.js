@@ -27,7 +27,7 @@ console.log(null>=0);   // (3)true
 
 //----------------------------------------------------------------
 
-// === --> STRICT CHECK --> CHECK VALUE ALONG WITH ITS DATATYPE 
+// '===' --> STRICT CHECK --> CHECK VALUE ALONG WITH ITS DATATYPE 
                         // IF BOTH SAME COMPARISON OCCUR
 
 console.log("2"==2);    // true only check value

@@ -9,6 +9,11 @@ let isLoggedIn = false // boolean
 let temp=null;      // null
 let userEmail;      // undefined type
 const id = Symbol(351765186);       // Symbol type
+        /* In JavaScript, a `Symbol` is a unique and immutable primitive value, 
+          often used to create unique property keys for objects, ensuring no property
+           name collisions. */
+
+           
 const bigNumber=564675876745n;
 
 /*  DIFF TYPES OF DATATYPES ..........*/
