@@ -18,3 +18,4 @@ console.log(digit)
 console.log(digit.toLocaleString('en-IN'))
 
 console.log(Number.MIN_VALUE)
+console.log(this)
