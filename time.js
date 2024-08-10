@@ -14,3 +14,4 @@ console.log(now.toLocaleString('default',{
     weekday : "long",
     hour : "2-digit"
 }))
+console.log(now.setDate(2000,5,23))
