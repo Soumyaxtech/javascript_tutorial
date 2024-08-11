@@ -9,7 +9,7 @@ console.log(Math.round(7.5))    // round 7.3 --> 7 and 7.5 --> 8
 
 console.log(Math.ceil(6.2))  // ceiling gives upper value 6.1 --> 7 also 6.6 --> 7
 
-console.log(Math.floor(5.8))    // floor gives lower value 5.8 --> 5 also 5.3 --> 5
+console.log(Math.floor(5.7))    // floor gives lower value 5.8 --> 5 also 5.3 --> 5
 
 console.log(Math.max(3,6,8,9,6))
 console.log(Math.min(4,7,2,8.15))
