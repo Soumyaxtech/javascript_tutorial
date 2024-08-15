@@ -20,8 +20,8 @@ console.log(arr.includes(4765))     // check if the element present or not
                                 // if present then true or else false
 console.log(arr.indexOf("soumya"))  // give index value of element  
 
-let myArr = arr.join()      // convert arr into string 
+let newArr = arr.join()      // convert arr into string 
 console.log(arr)
-console.log(myArr) 
+console.log(newArr) 
 
 
