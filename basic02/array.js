@@ -30,7 +30,7 @@ console.log(newArr)
 let a = [0,1,2,3,4,5];
 console.log("before",a);
 const newA = a.slice(0,3);
-console.log("after sliceing ",a);   // does not affect original array
+console.log("after sliceing ",a);   // does not affect original array(don't manupulate)
 const newA2 = a.splice(1,4);
 console.log("after spliceing ",a);  // effect original array only without splice part remain
 console.log(newA);
