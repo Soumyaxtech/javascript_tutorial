@@ -54,3 +54,4 @@ console.log(Object.entries(regularName))    /* [
 // check if the property present or not...............
 
 console.log(regularName.hasOwnProperty('fullName'))  // o/p ---> true
+console.log(regularName.hasOwnProperty('middleName'))   // o/p --> false
