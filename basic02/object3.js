@@ -24,3 +24,5 @@ console.log(price)
 }   */
 
 // in json keys and values are all string 
+
+// api from randomuser ----> jsonformatter
