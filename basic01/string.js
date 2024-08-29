@@ -19,7 +19,7 @@ console.log(game.toLowerCase())    // TO GET LOWER CASE OF THE STRING
 console.log(game.toUpperCase())    // TO GET UPPERCASE OF THE STRING
 
 console.log(name+id)    // CONCATINATION BUT IT IS NOT GOOD 
-console.log(`MY NAME IS ${name} AND MY ID ${id}`)   // WE WILL USE IT 
+console.log( `${name}${id}`)   // WE WILL USE IT 
 
 console.log(game.charAt(4)) // give in the index what is the charecter
 
