@@ -42,13 +42,13 @@ if(true){
 // +++++++++++++++++++++ INTERESTING ++++++++++++++++++++++++++++++++++++++
 
 console.log(addOne(6)) // here can print both even decleared after it
-function addOne(num){
-    return num+1
+function addOne(num){   // we can declear function like this for this we can access 
+    return num+1        // it anywhere even before it 
 }
 console.log(addOne(6))
 
 // console.log(addTwo(6))  // cant print this as not decleared 
 const addTwo = function(num){   // basic of hosting
-    return num+2
-}
+    return num+2            // we can also declear function like this in that case 
+}                           // we can only access it after the declearation
 console.log(addTwo(7))
